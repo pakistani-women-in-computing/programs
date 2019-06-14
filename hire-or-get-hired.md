@@ -1,7 +1,7 @@
 # Career Growth and Job Opportunities
 PWiC offers following services to enable its members to grow in their careers. 
 
-*Disclaimer:* PWiC does not gurantee jobs, neither do we match positions nor endorse any companies or candidates. This effort is only to connect community members who are actively looking for poistions and candidates.
+**Disclaimer:* PWiC does not gurantee jobs, neither do we match positions nor endorse any companies or candidates. This effort is only to connect community members who are actively looking for poistions and candidates.
 
 ## Looking for a Job?
 ### Resume Review
